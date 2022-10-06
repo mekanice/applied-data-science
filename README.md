@@ -1,5 +1,5 @@
-# Exported from IBM Watson\
-
+# Exported from IBM Watson
+\
 |Sequence|Notebook|
 |--------|--------|
 |1|notebook_Complete_the_Data_Collection_API_Lab_x8m-xaI-d.ipynb    |
